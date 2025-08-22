@@ -5,7 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Olivia Bogle 
+<p align="center">
+  <a href="https://github.com/oliviabogle">
+    <img alt="GitHub 💖 @oliviabogle" src="https://img.shields.io/badge/GitHub%20%F0%9F%92%96-@oliviabogle-ffd1dc?logo=github&logoColor=white&labelColor=1f1f1f&style=for-the-badge">
+  </a>
+</p>
+
 - 🌱 NWSCC | CIS | Cyber Security
 - 👯 Offensive Cyber Security 
 - 🤔 I’m looking for help with ...
