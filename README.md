@@ -15,9 +15,7 @@
 - ⚡ Fun fact: ...
 
 
-<a href="https://www.linkedin.com/in/oliviabogle2025">
-  <img src="badges/linkedin-circle-oliviabogle2025.svg" alt="LinkedIn" width="64" height="64">
-</a>
+[![LinkedIn](badges/linkedin-circle-oliviabogle2025-256.png)](https://www.linkedin.com/in/oliviabogle2025)
 
 
 
