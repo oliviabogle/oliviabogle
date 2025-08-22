@@ -4,10 +4,8 @@
 </p>
  <br>
   </p>
-🎓
-NWSCC | CIS | Cybersecurity
 
-🗺️
+✦
  Aspiring Trust & Safety Specialist
 <h3>Connect with me: <br> </h3>
 
