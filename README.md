@@ -15,7 +15,10 @@
 - ⚡ Fun fact: ...
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-oliviabogle2025-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliviabogle2025)
+<a href="https://www.linkedin.com/in/oliviabogle2025">
+  <img src="badges/linkedin-circle-oliviabogle2025.svg" alt="LinkedIn" width="64" height="64">
+</a>
+
 
 
 
