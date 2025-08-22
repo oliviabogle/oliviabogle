@@ -1,22 +1,15 @@
-<h1>Olivia Bogle</h1>
-<h3>CIS | CyberSecurity Student <br></h3>
-
-  <p>
-    Currently seeking opportunities in IT, CyberSecurity, or Data Management<br>
+<h1 align="center"> Olivia Bogle </h1>
+ <p align="center">
+  Cybersecurity • Trust & Safety • Cyber Policy
+</p>
+ <br>
   </p>
-
 
 <h3>Connect with me: <br> </h3>
 
   <p3>
-    <a href="https://linkedin.com/in/oliviabogle2025" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-    </a>
-    <a href="mailto:oliviabogle1@outlook.com">
-      <img src="https://s.yimg.com/nq/nr/img/desktop_notification_icon_3x_hyeOa8eLuUarSAZ1BW1p6y52zCsA520yKCg6fgaOCXQ_v1.png" width="40" height="40" />
-    </a>
-    <br>
-  </p3>
+<a href="https://linkedin.com/in/oliviabogle2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="oliviabogle2025" height="30" width="40" /></a>
+
 
 <h3>Tools:</h3>
   
