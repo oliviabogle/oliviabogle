@@ -5,11 +5,9 @@
 
 Here are some ideas to get you started:
 
-<p align="center">
-  <a href="https://github.com/oliviabogle">
-    <img alt="GitHub @oliviabogle" src="github_badge_polkadot.png">
-  </a>
-</p>
+[![GitHub @oliviabogle](https://img.shields.io/badge/GitHub-@oliviabogle-000000?logo=github&logoColor=white&labelColor=000000&style=for-the-badge)](https://github.com/oliviabogle)
+
+
 
 
 
