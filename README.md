@@ -14,7 +14,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![GitHub – @oliviabogle](badges/captain-america-github-badge.svg)](https://github.com/oliviabogle)
+[![GitHub – @oliviabogle](https://raw.githubusercontent.com/<user>/<repo>/<branch>/badges/captain-america-github-badge.svg)](https://github.com/oliviabogle)
+
 
 
 
