@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliviabogle2025)
+[<img src="badges/linkedin-square-pink.svg" alt="LinkedIn" width="64">](https://www.linkedin.com/in/oliviabogle2025)
 
 
 
