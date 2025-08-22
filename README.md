@@ -1,8 +1,3 @@
-
-
-
-                                                                             
-
 [![GitHub @oliviabogle](https://img.shields.io/badge/GitHub-@oliviabogle-9e9e9e?logo=github&logoColor=white&labelColor=1f1f1f&style=for-the-badge)](https://github.com/oliviabogle)
 
 
