@@ -14,10 +14,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://linkedin.com/in/your-profile" target="_blank">
-  <img src=(https://raw.githubusercontent.com/<user>/<repo>/<branch>/badges/captain-america-github-badge.svg)](https://github.com/oliviabogle) width="40" height="40" />
-</a>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oliviabogle2025-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliviabogle2025)
 
 
 
