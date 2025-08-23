@@ -7,7 +7,18 @@
 
 ✦
  Aspiring Trust & Safety Specialist
+ 
+![CompTIA Ethical Hacker Pro](https://img.shields.io/badge/CompTIA-Ethical%20Hacker%20Pro-red?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)
+
+![UNICEF Advocacy in Child Protection](https://img.shields.io/badge/UNICEF-Advocacy%20in%20Child%20Protection%20Coordination%20Groups-00ADEF?style=for-the-badge&logo=unicef&logoColor=white)
+![UN Women Gender Analysis](https://img.shields.io/badge/UN%20Women-Gender%20Analysis%20%26%20Digital%20Inclusion-purple?style=for-the-badge&logo=unwomen&logoColor=white)
+![UNICEF Ethics in Evidence](https://img.shields.io/badge/UNICEF-Introduction%20to%20Ethics%20in%20Evidence%20Generation-0099cc?style=for-the-badge&logo=unicef&logoColor=white)
+
+
 <h3>Connect with me: <br> </h3>
+
+
 
   <p3>
 <a href="https://linkedin.com/in/oliviabogle2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="oliviabogle2025" height="30" width="40" /></a>
