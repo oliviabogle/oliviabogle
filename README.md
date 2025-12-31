@@ -1,6 +1,5 @@
 <h1 align="center"> Olivia Bogle </h1>
  <p align="center">
-  Cybersecurity • Trust & Safety • Cyber Policy
 </p>
  <br>
 
