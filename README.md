@@ -3,10 +3,7 @@
   Cybersecurity • Trust & Safety • Cyber Policy
 </p>
  <br>
-  </p>
 
-✦
- Aspiring Trust & Safety Specialist
  
 ![CompTIA Ethical Hacker Pro](https://img.shields.io/badge/CompTIA-Ethical%20Hacker%20Pro-red?style=for-the-badge&logo=comptia&logoColor=white)
 
