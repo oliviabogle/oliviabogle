@@ -4,7 +4,6 @@
  <br>
 
  
-![CompTIA Ethical Hacker Pro](https://img.shields.io/badge/CompTIA-Ethical%20Hacker%20Pro-red?style=for-the-badge&logo=comptia&logoColor=white)
 
 
 ![UNICEF Advocacy in Child Protection](https://img.shields.io/badge/UNICEF-Advocacy%20in%20Child%20Protection%20Coordination%20Groups-00ADEF?style=for-the-badge&logo=unicef&logoColor=white)
