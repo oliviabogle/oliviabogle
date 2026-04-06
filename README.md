@@ -1,18 +1,7 @@
-<h1 align="center"> Olivia Bogle </h1>
+<h1 align="center"> Olivia Bogle | CIS </h1>
  <p align="center">
 </p>
  <br>
-
- 
-
-
-![UNICEF Advocacy in Child Protection](https://img.shields.io/badge/UNICEF-Advocacy%20in%20Child%20Protection%20Coordination%20Groups-00ADEF?style=for-the-badge&logo=unicef&logoColor=white)
-![UN Women Gender Analysis](https://img.shields.io/badge/UN%20Women-Gender%20Analysis%20%26%20Digital%20Inclusion-purple?style=for-the-badge&logo=unwomen&logoColor=white)
-![UNICEF Ethics in Evidence](https://img.shields.io/badge/UNICEF-Introduction%20to%20Ethics%20in%20Evidence%20Generation-0099cc?style=for-the-badge&logo=unicef&logoColor=white)
-
-
-
-
 <h3>Connect with me: <br> </h3>
 
 
