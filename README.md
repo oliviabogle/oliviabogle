@@ -1,6 +1,4 @@
-
- <p> align="center">
- <br>
+<br>
 <h3>Connect with me: <br> </h3>
  </p>
 
