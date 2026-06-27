@@ -1,9 +1,8 @@
 
- <p align="center">
-</p>
+ <p> align="center">
  <br>
 <h3>Connect with me: <br> </h3>
-
+ </p>
 
 
   <p3>
